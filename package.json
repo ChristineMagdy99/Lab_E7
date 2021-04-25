@@ -1,0 +1,21 @@
+{
+  "name": "trial_1",
+  "version": "1.0.0",
+  "description": "labe7",
+  "engines": {
+    "node": "14.16.1"
+  },
+  "main": "code.js",
+  "scripts": {
+    "start": "node code.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+
+  "author": "Christine",
+  "license": "ISC"
+}
